@@ -1,5 +1,4 @@
 class ActorsController < ApplicationController
-  show, new, create, edit, update
 
   def show
   end
